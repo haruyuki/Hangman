@@ -26,4 +26,4 @@ python3 hangman.py
 
 ## Authors
 
-* **Oliver Lin** - [WildWingX](https://github.com/WildWingX)
+* [**@haruyuki**](https://github.com/haruyuki)
